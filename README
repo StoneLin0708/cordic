@@ -1,8 +1,0 @@
-this is a cordic algorithm code in c and verilog
-gcc make with -lm
-
-header.c generate arctan mul and mul*1/k for cordic lookup table
-cordic8.c is 8 bit version
-cordic32.c is 32 bit version
-
-cordic.v is 32 bit version write with verilog

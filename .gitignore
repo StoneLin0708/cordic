@@ -1,11 +1,3 @@
-cordic.cr.mti
-cordic.mpf
-vsim.wlf
-transcript
-c8
-c32
-h
-atan
-work
-t.c
-tan.c
+/.venv
+/build
+/*.vcd
